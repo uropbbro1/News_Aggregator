@@ -1,0 +1,9 @@
+
+/frontend/
+/backend/
+
+.env.local
+.env.*.local
+
+.idea/
+*.iml
